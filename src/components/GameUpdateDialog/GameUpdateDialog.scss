@@ -1,0 +1,18 @@
+@import "./variables";
+
+.user-action-self-form .MuiAutocomplete-inputRoot .MuiAutocomplete-input {
+  width: auto;
+}
+
+.user-action-self-form .MuiFormControl-marginNormal {
+  margin-top: 0;
+}
+
+.custom-action .MuiInputBase-input {
+  padding-right: 56px;
+}
+
+.errorMsg {
+  color: red;
+  margin-top: 5px;
+}

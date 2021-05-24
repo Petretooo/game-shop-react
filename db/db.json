@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "60abc7d0739f220000ee83ea",
+      "username": "peter",
+      "email": "peter",
+      "password": "peter",
+      "games": []
+    },
+    {
+      "id": "60abc8111da0cf00008497ef",
+      "username": "test3",
+      "email": "test3",
+      "password": "test3",
+      "games": []
+    }
+  ],
+  "games": [],
+  "billingAccount": [
+    {
+      "id": "60abbd5aab0b2700001f4b51",
+      "deposit": 340
+    },
+    {
+      "id": "60abc7d0739f220000ee83ea",
+      "deposit": 1500
+    },
+    {
+      "id": "60abc8111da0cf00008497ef",
+      "deposit": 400
+    }
+  ]
+}
